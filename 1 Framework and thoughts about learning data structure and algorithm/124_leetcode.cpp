@@ -1,6 +1,6 @@
-//issme path nikalna hai tree ka
+// issme path nikalna hai tree ka
 
-//fkn
+// fkn
 int ans = INT_MIN;
 int oneSideMax(TreeNode* root) {
     if (root == nullptr) return 0;

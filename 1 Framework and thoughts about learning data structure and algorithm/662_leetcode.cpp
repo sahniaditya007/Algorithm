@@ -1,7 +1,7 @@
-//issme width nikalni hai ek binary tree ki
+//i ssme width nikalni hai ek binary tree ki
 
-//tuf
-//width ->  no. of nodes in a level between any two nodes
+// tuf
+// width ->  no. of nodes in a level between any two nodes
 // 0 based indexing mei (2*i+1)(2*i+2) se har node t
 // 1 based indexing mei (2*i)(2*i+1)
 #include<iostream>

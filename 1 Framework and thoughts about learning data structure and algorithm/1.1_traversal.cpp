@@ -1,4 +1,4 @@
-/*The so-called framework is a trick.
+/* The so-called framework is a trick.
 No matter add, delete, insert or modify, these codes are never separated from the structure.
 You can take this structure as the outline and add code on the framework according to specific problems.
 The following will give specific examples.*/
